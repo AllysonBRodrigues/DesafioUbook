@@ -22,4 +22,18 @@ filme selecionado.
 - Gson
 - Picasso
 
+## Telas
+
+### Lista de Filmes
+[![Tela Principal](https://github.com/AllysonBRodrigues/DesafioUbook/blob/master/screenshots/List_movies.jpeg)](https://github.com/AllysonBRodrigues/DesafioUbook/blob/master/screenshots/List_movies.jpeg)
+
+### Detalhe 1
+[![Detalhe 1](https://github.com/AllysonBRodrigues/DesafioUbook/blob/master/screenshots/Detail_1.jpeg)](https://github.com/AllysonBRodrigues/DesafioUbook/blob/master/screenshots/Detail_1.jpeg)
+
+
+### Detalhe 2
+[![Detalhe 2](https://github.com/AllysonBRodrigues/DesafioUbook/blob/master/screenshots/Detail_2.jpeg)](https://github.com/AllysonBRodrigues/DesafioUbook/blob/master/screenshots/Detail_2.jpeg)
+
+### Erro de conexão
+[![Erro de conexão](https://github.com/AllysonBRodrigues/DesafioUbook/blob/master/screenshots/Error_connection.jpeg)](https://github.com/AllysonBRodrigues/DesafioUbook/blob/master/screenshots/Error_connection.jpeg)
 
